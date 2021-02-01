@@ -1,1 +1,1 @@
-** This is a repository to practice React
+This is a repository to practice React
