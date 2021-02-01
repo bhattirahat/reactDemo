@@ -1,1 +1,1 @@
-this is intro to react
+** This is a repository to practice React
