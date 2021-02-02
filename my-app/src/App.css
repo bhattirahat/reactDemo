@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.button {
+  color:black;
+}
+
+.button:hover{
+    background-color: red;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
